@@ -12,3 +12,6 @@
 
 import numpy as np
 
+a = 0
+b = 3.14
+n = int(input("Em quantos retângulos serão divididos? "))
