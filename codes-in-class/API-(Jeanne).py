@@ -57,7 +57,7 @@ limite_inferior = 0
 limite_superior = 3.14
 num_retangulos = 40
 
-area_aproximada = calculo_area_retangulos(limite_inferior, limite_superior, num_retangulos)
+area_aproximada = calcular_area_retangulos(limite_inferior, limite_superior, num_retangulos)
 print("Área aproximada sob a curva de acordo com a soma de rimann:", area_aproximada)
 print("Área aproxima de acordo com a integral:", resposta_integral)
 print("A diferença entre o valor da soma de rimel e o calculo pela integral e:", area_aproximada - resposta_integral)
