@@ -1,3 +1,15 @@
+# Problema:
+
+# Um processo em execução tem consumo de CPU instantâneo  c(t)=0.5t2+3  unidades de CPU por segundo em  t∈[0,10] .
+
+# Calcule:
+
+# A integral definida com SymPy
+# Uma aproximação numérica por Riemann (midpoint)
+# O erro entre as duas respostas
+
+
+
 import numpy as np
 import sympy as sp
 
