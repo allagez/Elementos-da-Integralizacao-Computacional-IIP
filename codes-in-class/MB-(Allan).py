@@ -1,3 +1,9 @@
+#Problema:
+
+# O uso de memória de um serviço em execução é modelado por m(t)=50t+100 MB em t∈[0,10] minutos.
+
+#Plote a função e preencha a área correspondente à integral ∫[0,10] m(t) dt, mostrando o valor numérico.
+
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.integrate import quad as inte
